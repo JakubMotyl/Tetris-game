@@ -88,7 +88,7 @@ h1.title {
   flex-wrap: wrap;
   height: 500px;
   width: 250px;
-  background: #608BC1;
+  background: transparent;
   outline: 2px solid #CBDCEB;
 }
 .grid div {
